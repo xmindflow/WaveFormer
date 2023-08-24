@@ -13,10 +13,10 @@ Throughout comprehensive experiments, we demonstrate the effectiveness of our st
 <p align="center">
   <b>F</b>requency <b>E</b>nhanced <b>T</b>ransformer (<b>FET</b>) model</em>
   <br/>
-  <img width="600" alt="image" src="https://github.com/mindflow-institue/wave-former/assets/6207884/78ac1156-60a4-4db9-89cb-31d76ccf1708"/>
+  <img width="600" alt="image" src="https://github.com/mindflow-institue/WaveFormer/assets/6207884/37e8898c-bc4f-413e-a185-eacc6f80a057"/>
   <br/>
   <br/>
-  <img width="700" alt="image" src="https://github.com/mindflow-institue/wave-former/assets/6207884/384ed9b7-9cfd-4cca-bb5a-04dc8ce6f926"/>
+  <img width="700" alt="image" src="https://github.com/mindflow-institue/WaveFormer/assets/6207884/1c5b251a-5426-4140-8b6e-3f83dd5a6200"/>
   <br>
   (a) <b>FET</b> block, (b) <b>M</b>ulti-<b>S</b>cale <b>C</b>ontext <b>E</b>nhancement (<b>MSCE</b>) module
 </p>
@@ -49,7 +49,6 @@ Throughout comprehensive experiments, we demonstrate the effectiveness of our st
   - Hardware Spec
     - A single GPU with 12GB memory or larger capacity (_we used RTX 3090_)
 
-  
   ```
 einops==0.6.1
 h5py==3.9.0
@@ -74,8 +73,8 @@ tqdm==4.64.1
   You can download the learned weights in the following.
    Dataset   | Model | download link 
   -----------|-------|----------------
-   Synapse   | FET   | [[Download](https://drive.google.com/file/d/1rACU0c0JG9qaP9JjAYBwi5Yn3_7YAvu1/view?usp=sharing)] 
-
+   Synapse   | FET   | [[Download](https://drive.google.com/file/d/1rACU0c0JG9qaP9JjAYBwi5Yn3_7YAvu1/view)] 
+  
   ### Training
   For the training, you must run the `train.py` with your desired arguments or you can use the simple written bash script file in `runs/run_tr_n01.sh`.
   You need to change variables and arguments respectively.
@@ -160,12 +159,16 @@ optional arguments:
 
 ### Synapse Dataset
 <p align="center">
-  <img width="600" alt="Synapse images" src="https://github.com/mindflow-institue/wave-former/assets/6207884/a810bef3-6c7e-448d-ab68-d75f9cbc7aa0">
-  <img style="max-width:2020px" alt="Synapse results" src="https://github.com/mindflow-institue/wave-former/assets/6207884/5cbf0f7f-3fa4-4ae5-9ff6-03798343fd8c">
+  <img width="600" alt="Synapse images" src="https://github.com/mindflow-institue/WaveFormer/assets/6207884/263fd761-74ae-4175-a091-b0cdd7dc2df8">
+  <img style="max-width:2020px" alt="Synapse results" src="https://github.com/mindflow-institue/WaveFormer/assets/6207884/c9b100ab-ced6-4574-8869-b52be2db5be4">
 </p>
 
 ### ISIC 2018 Dataset
 <p align="center">
-  <img style="width: 65%; float:left" alt="ISIC images" src="https://github.com/mindflow-institue/wave-former/assets/6207884/698f6e61-5673-4cda-98c2-56f11eadca48">
-  <img style="width: 34%;" alt="ISIC results" src="https://github.com/mindflow-institue/wave-former/assets/6207884/69c10e69-1499-4c6c-b516-551cd9137e58">
+  <img style="width: 65%; float:left" alt="ISIC images" src="https://github.com/mindflow-institue/WaveFormer/assets/6207884/020d196a-8c67-4ca8-bb96-b4d85f3f2ef0">
+  <img style="width: 34%;" alt="ISIC results" src="https://github.com/mindflow-institue/WaveFormer/assets/6207884/7e500a96-d3fa-4e00-9025-91e191c6d506">
 </p>
+
+## References
+- DAEFormer [https://github.com/mindflow-institue/DAEFormer]
+- ImageNetModel [https://github.com/YehLi/ImageNetModel]
