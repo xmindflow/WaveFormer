@@ -13,10 +13,10 @@ Throughout comprehensive experiments, we demonstrate the effectiveness of our st
 <p align="center">
   <b>F</b>requency <b>E</b>nhanced <b>T</b>ransformer (<b>FET</b>) model</em>
   <br/>
-  <img width="600" alt="image" src="https://github.com/mindflow-institue/WaveFormer/assets/6207884/37e8898c-bc4f-413e-a185-eacc6f80a057"/>
+  <img width="600" alt="image" src="https://github.com/mindflow-institue/WaveFormer/assets/6207884/299ccd26-432d-406d-90d0-46b9255b4693"/>
   <br/>
   <br/>
-  <img width="700" alt="image" src="https://github.com/mindflow-institue/WaveFormer/assets/6207884/1c5b251a-5426-4140-8b6e-3f83dd5a6200"/>
+  <img width="700" alt="image" src="https://github.com/mindflow-institue/WaveFormer/assets/6207884/4a5f688b-9271-40ca-bda1-12ed803965f7"/>
   <br>
   (a) <b>FET</b> block, (b) <b>M</b>ulti-<b>S</b>cale <b>C</b>ontext <b>E</b>nhancement (<b>MSCE</b>) module
 </p>
@@ -159,14 +159,14 @@ optional arguments:
 
 ### Synapse Dataset
 <p align="center">
-  <img width="600" alt="Synapse images" src="https://github.com/mindflow-institue/WaveFormer/assets/6207884/263fd761-74ae-4175-a091-b0cdd7dc2df8">
-  <img style="max-width:2020px" alt="Synapse results" src="https://github.com/mindflow-institue/WaveFormer/assets/6207884/c9b100ab-ced6-4574-8869-b52be2db5be4">
+  <img width="600" alt="Synapse images" src="https://github.com/mindflow-institue/WaveFormer/assets/6207884/6d2fa946-75ca-4a63-895c-ea2db633ff46">
+  <img style="max-width:2020px" alt="Synapse results" src="https://github.com/mindflow-institue/WaveFormer/assets/6207884/6ac06b5e-a3bc-4de3-bd8b-d3ce2d0843f2">
 </p>
 
 ### ISIC 2018 Dataset
 <p align="center">
-  <img style="width: 65%; float:left" alt="ISIC images" src="https://github.com/mindflow-institue/WaveFormer/assets/6207884/020d196a-8c67-4ca8-bb96-b4d85f3f2ef0">
-  <img style="width: 34%;" alt="ISIC results" src="https://github.com/mindflow-institue/WaveFormer/assets/6207884/7e500a96-d3fa-4e00-9025-91e191c6d506">
+  <img style="width: 65%; float:left" alt="ISIC images" src="https://github.com/mindflow-institue/WaveFormer/assets/6207884/f0937aa3-3deb-4696-b38e-8501cf097a22">
+  <img style="width: 34%;" alt="ISIC results" src="https://github.com/mindflow-institue/WaveFormer/assets/6207884/6d6a6433-af6d-4fab-b992-112b7b8dcf44">
 </p>
 
 ## References
