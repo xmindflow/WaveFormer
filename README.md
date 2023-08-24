@@ -74,9 +74,8 @@ tqdm==4.64.1
   You can download the learned weights in the following.
    Dataset   | Model | download link 
   -----------|-------|----------------
-   Synapse   | FET   | [[Download](https://uniregensburg-my.sharepoint.com/:f:/g/personal/say26747_ads_uni-regensburg_de/EhsfBqr1Z-lCr6KaOkRM3EgBIVTv8ew2rEvMWpFFOPOi1w?e=ifo9jF)] 
-   ISIC2018  | FET   | [[Download](https://uniregensburg-my.sharepoint.com/:f:/g/personal/say26747_ads_uni-regensburg_de/EoCkyNc5yeRFtD-KTFbF0gcB8lbjMLY6t1D7tMYq7yTkfw?e=tfGHee)] 
-  
+   Synapse   | FET   | [[Download](https://drive.google.com/file/d/1rACU0c0JG9qaP9JjAYBwi5Yn3_7YAvu1/view?usp=sharing)] 
+
   ### Training
   For the training, you must run the `train.py` with your desired arguments or you can use the simple written bash script file in `runs/run_tr_n01.sh`.
   You need to change variables and arguments respectively.
