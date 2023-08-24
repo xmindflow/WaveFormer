@@ -1,4 +1,4 @@
-# WaveFormer: Unlocking Fine-Grained Details with Wavelet-based High-Frequency Enhancement in Transformers <br> <span style="float: right"><sub><sup>$\text{(\textcolor{teal}{MICCAI 2023 MLMI Workshop})}$</sub></sup></span>
+# Unlocking Fine-Grained Details with Wavelet-based High-Frequency Enhancement in Transformers <br> <span style="float: right"><sub><sup>$\text{(\textcolor{teal}{MICCAI 2023 MLMI Workshop})}$</sub></sup></span>
 
 Medical image segmentation is a critical task that plays a vital role in diagnosis, treatment planning, and disease monitoring. 
 Accurate segmentation of anatomical structures and abnormalities from medical images can aid in the early detection and treatment of various diseases. 
