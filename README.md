@@ -1,5 +1,7 @@
 # Unlocking Fine-Grained Details with Wavelet-based High-Frequency Enhancement in Transformers <br> <span style="float: right"><sub><sup>$\text{(\textcolor{teal}{MICCAI 2023 MLMI Workshop})}$</sub></sup></span>
 
+[![arXiv](https://img.shields.io/badge/arXiv-2308.13442-b31b1b.svg)](https://arxiv.org/abs/2308.13442)
+
 Medical image segmentation is a critical task that plays a vital role in diagnosis, treatment planning, and disease monitoring. 
 Accurate segmentation of anatomical structures and abnormalities from medical images can aid in the early detection and treatment of various diseases. 
 In this paper, we address the local feature deficiency of the Transformer model by carefully re-designing the self-attention map to produce accurate dense prediction in medical images. 
