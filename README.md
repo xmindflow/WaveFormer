@@ -1,4 +1,4 @@
-# Unlocking Fine-Grained Details with Wavelet-based High-Frequency Enhancement in Transformers <br> <span style="float: right"><sub><sup>MICCAI 2023</sub></sup></span>
+# Unlocking Fine-Grained Details with Wavelet-based High-Frequency Enhancement in Transformers <br> <span style="float: right"><sub><sup>MICCAI 2023 MLMI Workshop</sub></sup></span>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2308.13442-b31b1b.svg)](https://arxiv.org/abs/2308.13442)
 
