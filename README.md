@@ -52,22 +52,22 @@ Throughout comprehensive experiments, we demonstrate the effectiveness of our st
     - A single GPU with 12GB memory or larger capacity (_we used RTX 3090_)
 
   ```
-einops==0.6.1
-h5py==3.9.0
-imgaug==0.4.0
-matplotlib==3.6.2
-MedPy==0.4.0
-numpy==1.22.2
-opencv_python==4.6.0.66
-pandas==1.5.2
-PyWavelets==1.4.1
-scipy==1.6.3
-SimpleITK==2.2.1
-tensorboardX==2.6.2.2
-timm==0.9.5
-torch==1.14.0a0+44dac51
-torchvision==0.15.0a0
-tqdm==4.64.1
+einops
+h5py
+imgaug
+matplotlib
+MedPy
+numpy
+opencv_python
+pandas
+PyWavelets
+scipy
+SimpleITK
+tensorboardX
+timm
+torch
+torchvision
+tqdm
   ```
   `pip install -r requirements.txt`
 
